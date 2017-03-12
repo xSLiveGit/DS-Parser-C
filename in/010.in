@@ -1,0 +1,14 @@
+HashTableRead
+1 2 3 4 5 6 7
+HashTableRead
+-1 -2 -3 
+HashTableSearch
+3
+HashTableGoTo
+0
+HashTableSearch
+3
+HashTableGoTo
+3
+HashTableSearch
+4
